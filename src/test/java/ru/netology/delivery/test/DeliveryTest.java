@@ -11,7 +11,6 @@ import static com.codeborne.selenide.Selenide.*;
 import static java.time.Duration.ofSeconds;
 
 import static ru.netology.delivery.data.DataGenerator.*;
-
 class DeliveryTest {
 
     @BeforeAll
